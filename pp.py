@@ -25,7 +25,8 @@ def echo_all(message):
     else:
         response = to_latin(msg)
     bot.reply_to(message, response)
-
+    
+bot.setPolling("https://abhisjokebot.herokuapp.com/" + TOKEN)
 
 bot.polling()
 
