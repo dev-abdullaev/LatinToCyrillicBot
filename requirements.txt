@@ -1,7 +1,6 @@
 alembic==1.6.2
 appdirs==1.4.3
 APScheduler==3.6.3
-apturl==0.5.2
 asgiref==3.3.4
 astroid==2.5.2
 attrs==20.3.0
