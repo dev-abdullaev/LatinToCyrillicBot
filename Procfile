@@ -1,1 +1,1 @@
-web: python3 pp.py
+worker: python3 pp.py
