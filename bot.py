@@ -1,6 +1,7 @@
 from .translated import to_cyrillic, to_latin
 import telebot
 from telebot import types
+
 TOKEN = "1842495387:AAE76kSagYHUAtS4jAU6qhDAVUXYKJ9xxUU"
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 
