@@ -1,4 +1,4 @@
-from translated import to_cyrillic, to_latin
+from .translated import to_cyrillic, to_latin
 import telebot
 from telebot import types
 
